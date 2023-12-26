@@ -1,0 +1,1 @@
+The British Informatics Olympiad is a competitive programming competition for high school students aged 11 - 18 in the UK. The problems are of varying difficulty and I have uploaded a small selection of questions I solved either fully or partially. Feel free to use them help you prepare. Good Luck! 
